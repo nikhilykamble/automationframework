@@ -8,6 +8,7 @@ public class FirstPage {
 		System.out.print("Hello");
 		System.out.print("Hi");
 		int a=10;
+		int b=19;
 	
 	}
 	
